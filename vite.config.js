@@ -12,5 +12,5 @@ export default defineConfig({
       public: 'public'
     },
   },
-  base: '/PowerPulse2.0/',
+  base: '/fs-82-react-node-VasylievYurii/',
 });
